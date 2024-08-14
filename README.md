@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👨‍💻 **At work** ([@borimomSoyeon](https://github.com/borimomSoyeon))
 
 <img src="https://ghchart.rshah.org/borimomSoyeon" style="width: 100vw;" />
